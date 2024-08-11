@@ -1,8 +1,8 @@
 ### Booking System & Sender-service
 #### **Functions:**
 
-- The sender-service sends lists of transactions (https://github.com/JasonQi-swe/transaction-sender-service)
-- The booking-system processes all received transactions and return those transaction where the booking cost exceeds the account balance
+- The sender-service sends lists of transactions
+- The [booking-system](https://github.com/JasonQi-swe/booking-system) processes all received transactions and return those transaction where the booking cost exceeds the account balance.
 
 #### **APIs**
 
